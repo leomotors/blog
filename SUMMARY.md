@@ -10,6 +10,7 @@
 
 * [Portfolio (Refactor in Progress)](https://portfolio.leomotors.vercel.app/)
 * [Repositories List](https://repos.leomotors.vercel.app/)
+* [Resume](https://resume.leomotors.vercel.app/)
 
 ## Contacts
 

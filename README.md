@@ -1,3 +1,7 @@
+---
+description: Welcome to my GitBook Blog!
+---
+
 # Hello There
 
 Welcome to my Blog
@@ -10,6 +14,12 @@ I just graduated from Triam Udom Suksa School (High School), Science-Math with G
 
 ### My preferred Technologies
 
-Language: C/C++, JavaScript/TypeScript
+Language: C/C++, JavaScript/TypeScript, node.js, Python, Dart (Flutter)
 
-// todo
+Love to do: Web Development, Application (Command Line and GUI) Development, Discord Bot
+
+Full Stack Web Combo: SvelteKit (TypeScript) + TailwindCSS + ~~fs.readFile fs.writeFile as Database~~
+
+Tools: VSCode, GitHub, zsh
+
+Cloud: Vercel, Netlify, GitHub Actions, Firebase, DigitalOcean, Azure
