@@ -27,7 +27,7 @@ For everyone who wants to create a nice WinUI UWP app, I recommend you these tip
 * Learn C# First, I recommend C# over C++ because it is easier (yes, why?)
 * Study the concept of XAML, XAML is invented 10 years ago along with WPF and remained pretty much the same. Most of the time, StackOverflow from many years ago can still help you!
 * XAML Controls Gallery (Or now named WinUI 2 Gallery) is the must-have app.
-* Try viewing the source code of the app such as [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) or [DevToys](https://github.com/veler/DevToys), \~\~~~Don't look at my app's source code, it is bad~~
+* Try viewing the source code of the app such as [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) or [DevToys](https://github.com/veler/DevToys), ~~Don't look at my app's source code, it is bad~~
 * Lastly, Good Luck!
 
 ### Uploading to Microsoft Store
