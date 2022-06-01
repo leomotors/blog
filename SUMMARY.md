@@ -8,10 +8,10 @@
 
 ## Personal Website
 
-* [Homepage / Portal](https://leomotors.github.io/)
-* [Portfolio](https://portfolio.leomotors.vercel.app/)
-* [Resume](https://resume.leomotors.vercel.app/)
-* [Repositories List](https://repos.leomotors.vercel.app/)
+* [Homepage / Portal](https://leomotors.me)
+* [Portfolio](https://portfolio.leomotors.me)
+* [Resume](https://resume.leomotors.me)
+* [Repositories List](https://repos.leomotors.me)
 
 ## Contacts
 
