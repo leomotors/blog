@@ -5,6 +5,7 @@
 ## My Projects
 
 * [You are a Failure!](my-projects/you-are-a-failure.md)
+* [Golden Frame](my-projects/golden-frame.md)
 
 ## Personal Website
 
