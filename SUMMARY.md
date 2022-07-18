@@ -7,6 +7,10 @@
 * [You are a Failure!](my-projects/you-are-a-failure.md)
 * [Golden Frame](my-projects/golden-frame.md)
 
+## Posts
+
+* [Introducing Cocoa Discord Utils V2](posts/introducing-cocoa-discord-utils-v2.md)
+
 ## Personal Website
 
 * [Homepage / Portal](https://leomotors.me)
