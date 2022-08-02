@@ -8,4 +8,4 @@ Today (18 July 2022), discord.js v14 has been released! To celebrate that, I als
 
 It also features many many new features.
 
-Read more [here](https://leomotors.me/cocoa-discord-utils/blog/introducing-v2.html)
+Read more [here](https://leomotors.github.io/cocoa-discord-utils/blog/introducing-v2.html)
